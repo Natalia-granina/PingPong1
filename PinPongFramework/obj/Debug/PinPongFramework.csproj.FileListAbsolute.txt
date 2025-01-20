@@ -1,0 +1,6 @@
+G:\игры\PingPongFramework\PinPongFramework\bin\Debug\PinPongFramework.exe
+G:\игры\PingPongFramework\PinPongFramework\bin\Debug\PinPongFramework.pdb
+G:\игры\PingPongFramework\PinPongFramework\obj\Debug\PinPongFramework.csproj.AssemblyReference.cache
+G:\игры\PingPongFramework\PinPongFramework\obj\Debug\PinPongFramework.csproj.CoreCompileInputs.cache
+G:\игры\PingPongFramework\PinPongFramework\obj\Debug\PinPongFramework.exe
+G:\игры\PingPongFramework\PinPongFramework\obj\Debug\PinPongFramework.pdb
